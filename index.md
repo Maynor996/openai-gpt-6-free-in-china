@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OpenAI GPT-6 国内免费使用，网友狂喜！"
+description: "2026 年 9 月 3 日，OpenAI 宣布推出 GPT-6 家族的旗舰模型 GPT-6 Astra，并开始把它陆续放进 ChatGPT、Codex 和 API。"
+---
+
 # OpenAI GPT-6 国内免费使用，网友狂喜！
 
 2026 年 **9 月 3 日**，OpenAI 宣布推出 GPT-6 家族的旗舰模型 **GPT-6 Astra**，并开始把它陆续放进 **ChatGPT、Codex 和 API**。
@@ -10,7 +16,6 @@
 
 ## 国内体验说明
 
-**授权码：在公众号后台回复“密码”获取。**
 
 第三方体验入口：
 
